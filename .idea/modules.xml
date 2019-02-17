@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/try_clojure/try_clojure.iml" filepath="$PROJECT_DIR$/try_clojure/try_clojure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try_elixir/try_elixir.iml" filepath="$PROJECT_DIR$/try_elixir/try_elixir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try_elm/try_elm.iml" filepath="$PROJECT_DIR$/try_elm/try_elm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try_js/try_js.iml" filepath="$PROJECT_DIR$/try_js/try_js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try_kotlin/try_kotlin.iml" filepath="$PROJECT_DIR$/try_kotlin/try_kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try_ruby/try_ruby.iml" filepath="$PROJECT_DIR$/try_ruby/try_ruby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try_scala/try_scala.iml" filepath="$PROJECT_DIR$/try_scala/try_scala.iml" />
+    </modules>
+  </component>
+</project>

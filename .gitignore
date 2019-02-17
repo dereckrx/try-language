@@ -1,0 +1,4 @@
+node_modules
+output
+try_clojure/lib
+try_elm/elm-stuff
