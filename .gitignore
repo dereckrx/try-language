@@ -2,3 +2,5 @@ node_modules
 output
 try_clojure/lib
 elm-stuff
+.gradle
+build
