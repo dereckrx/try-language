@@ -2,13 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="020fe1b6-f275-4afb-8363-7e2013dee787" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/try_elixir/try_elixir.iml" beforeDir="false" afterPath="$PROJECT_DIR$/try_elixir/try_elixir.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/try_kotlin/try_kotlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/try_kotlin/try_kotlin.iml" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/try_java/.gradle/" />
+    <ignored path="$PROJECT_DIR$/try_java/build/" />
+    <ignored path="$PROJECT_DIR$/try_java/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/try_language@test_hello__try_ruby.rcov" NAME="test_hello: try_ruby Coverage Results" MODIFIED="1553656919834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/try_ruby" MODULE_NAME="try_ruby" />
+    <SUITE FILE_PATH="coverage/try_language@test_baba_is_you__try_ruby.rcov" NAME="test_baba_is_you: try_ruby Coverage Results" MODIFIED="1553657301721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/try_ruby" MODULE_NAME="try_ruby" />
+    <SUITE FILE_PATH="coverage/try_language@Run_test__BottlesTest___try_ruby.rcov" NAME="Run test 'BottlesTest': try_ruby Coverage Results" MODIFIED="1553657472367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/try_ruby" MODULE_NAME="try_ruby" />
   </component>
   <component name="ElmWorkspace">
     <elmProjects>
@@ -16,37 +28,184 @@
     </elmProjects>
     <settings binDirPath="/usr/local/bin" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/try_java">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="try_java" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="try_java" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="try_java" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="try_java" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="try_language" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/src/hello_generics.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/ts_node/runner.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#36#69#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/ts_node/reptile.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="114">
-                <caret line="6" column="155" selection-start-line="6" selection-start-column="155" selection-end-line="6" selection-end-column="155" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/ts_node/mammal.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/src/hello_world.ts">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/tsconfig.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="97">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/jest.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>sourceFolder</find>
       <find>expect1</find>
       <find>log</find>
+      <find>mavenCentral</find>
+      <find>repositories</find>
+      <find>map</find>
+      <find>array</find>
+      <find>Reptile</find>
+      <find>reptile</find>
+      <find>libs</find>
+      <find>assert</find>
+      <find>function_with_result</find>
+      <find>function_with_stdout_result</find>
+      <find>global_return_var</find>
+      <find>function_with_return_param</find>
+      <find>name_local_params</find>
+      <find>function_with_params</find>
+      <find>assert_equ</find>
+      <find>$1</find>
+      <find>assert_end</find>
+      <find>$tests</find>
+      <find>tests_ran</find>
+      <find>lib</find>
+      <find>console.log</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>deps</replace>
+      <replace>global_return_var</replace>
+      <replace>write_result_to_stdout</replace>
+      <replace>set_global_result_var</replace>
+      <replace>set_result_to_param</replace>
+      <replace>name_local_params</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/try_scala</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,65 +213,129 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/try_java/src/try_java/App.java" />
+        <option value="$PROJECT_DIR$/try_java/src/try_java/CaseClass.java" />
+        <option value="$PROJECT_DIR$/try_java/src/main/java/try_java/App.java" />
+        <option value="$PROJECT_DIR$/try_java/src/com/try_java/App.java" />
+        <option value="$PROJECT_DIR$/try_java/src/com/try_java/CaseClass.java" />
+        <option value="$PROJECT_DIR$/try_java/build.gradle" />
+        <option value="$PROJECT_DIR$/try_java/src/main/java/com/try_java/CaseClass.java" />
+        <option value="$PROJECT_DIR$/try_java/src/main/java/com/try_java/CaseClass2.java" />
+        <option value="$PROJECT_DIR$/try_java/src/main/java/com/try_java/App.java" />
+        <option value="$PROJECT_DIR$/try_scala/spiral-matrix.sc" />
+        <option value="$PROJECT_DIR$/try_js/hello_typescript/src/foo.ts" />
+        <option value="$PROJECT_DIR$/try_js/hello_typescript/package.json" />
+        <option value="$PROJECT_DIR$/try_js/hello_typescript/hello_generics.ts" />
+        <option value="$PROJECT_DIR$/try_js/ts_node/reptile.ts" />
+        <option value="$PROJECT_DIR$/try_js/ts_node/runner.ts" />
+        <option value="$PROJECT_DIR$/try_bash/test.sh" />
+        <option value="$PROJECT_DIR$/try_bash/parse_json.sh" />
+        <option value="$PROJECT_DIR$/try_bash/deps.sh" />
+        <option value="$PROJECT_DIR$/try_bash/test/foo.sh" />
+        <option value="$PROJECT_DIR$/try_bash/foo.sh" />
+        <option value="$PROJECT_DIR$/try_bash/test/bar_test.sh" />
+        <option value="$PROJECT_DIR$/try_bash/test/run_tests.sh" />
+        <option value="$PROJECT_DIR$/try_bash/test/module/nested_test.sh" />
+        <option value="$PROJECT_DIR$/try_bash/Makefile" />
+        <option value="$PROJECT_DIR$/try_bash/test/functions_test.sh" />
+        <option value="$PROJECT_DIR$/try_bash/fun_lib/parse.sh" />
+        <option value="$PROJECT_DIR$/try_bash/functions.sh" />
+        <option value="$PROJECT_DIR$/try_bash/test/test_helper.sh" />
+        <option value="$PROJECT_DIR$/try_bash/README.txt" />
+        <option value="$PROJECT_DIR$/try_bash/create_repo.sh" />
+        <option value="$PROJECT_DIR$/try_bash/test/foo_test.sh" />
+        <option value="$PROJECT_DIR$/try_bash/functions_test.sh" />
+        <option value="$PROJECT_DIR$/try_bash/conditional_test.sh" />
+        <option value="$PROJECT_DIR$/try_bash/variables_test.sh" />
+        <option value="$PROJECT_DIR$/try_bash/run_tests.sh" />
+        <option value="$PROJECT_DIR$/try_bash/file_paths.sh" />
+        <option value="$PROJECT_DIR$/try_bash/fun_lib/func.sh" />
         <option value="$PROJECT_DIR$/try_elixir/try_elixir.iml" />
-        <option value="$PROJECT_DIR$/try_ruby/try_ruby.iml" />
-        <option value="$PROJECT_DIR$/try_scala/try_scala.iml" />
-        <option value="$PROJECT_DIR$/try_clojure/try_clojure.iml" />
-        <option value="$PROJECT_DIR$/try_kotlin/try_kotlin.iml" />
-        <option value="$PROJECT_DIR$/try_ruby/hello_world.rb" />
-        <option value="$PROJECT_DIR$/try_js/hello_world.js" />
-        <option value="$PROJECT_DIR$/try_elm/HelloWorld.elm" />
-        <option value="$PROJECT_DIR$/try_elm/try_elm.iml" />
-        <option value="$PROJECT_DIR$/try_elm/elm.json" />
-        <option value="$PROJECT_DIR$/try_elm/MainForIndex.elm" />
-        <option value="$PROJECT_DIR$/try_elm/index.html" />
-        <option value="$PROJECT_DIR$/try_elm/Makefile" />
-        <option value="$PROJECT_DIR$/try_ruby/.rubocop.yml" />
-        <option value="$PROJECT_DIR$/try_js/eslingrc.json" />
-        <option value="$PROJECT_DIR$/try_clojure/hello.clj" />
+        <option value="$PROJECT_DIR$/try_scala/railway/Railyard.sc" />
+        <option value="$PROJECT_DIR$/try_scala/railway/fun_control_flow.scala" />
+        <option value="$PROJECT_DIR$/try_js/ts_node/mammal.ts" />
+        <option value="$PROJECT_DIR$/try_js/hello_typescript/test/foo.test.ts" />
+        <option value="$PROJECT_DIR$/try_js/hello_typescript/test/index.test.ts" />
+        <option value="$PROJECT_DIR$/try_js/hello_typescript/greeter.html" />
+        <option value="$PROJECT_DIR$/try_js/hello_typescript/tsconfig.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/try_elixir/hello_world.exs" />
-        <option value="$PROJECT_DIR$/try_kotlin/hello_world.kt" />
-        <option value="$PROJECT_DIR$/try_scala/hello_world.scala" />
-        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/try_js/hello_typescript/jest.config.js" />
+        <option value="$PROJECT_DIR$/try_js/hello_typescript/Makefile" />
+        <option value="$PROJECT_DIR$/try_js/hello_typescript/src/hello_generics.ts" />
+        <option value="$PROJECT_DIR$/try_js/hello_typescript/ts_node/reptile.ts" />
+        <option value="$PROJECT_DIR$/try_js/hello_typescript/ts_node/mammal.ts" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="873" />
-    <option name="height" value="741" />
+    <option name="width" value="1366" />
+    <option name="height" value="745" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="try_language" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try_js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="try_language" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try_js" type="462c0819:PsiDirectoryNode" />
+              <item name="hello_typescript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="try_language" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try_js" type="462c0819:PsiDirectoryNode" />
+              <item name="hello_typescript" type="462c0819:PsiDirectoryNode" />
+              <item name="ts_node" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.project.structure.last.selected" value="Project" />
+    <property name="android.project.structure.proportion" value="0.15" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550439237473" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558999179626" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/try_elm/elm.json" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.elm.workspace.ui.ElmWorkspaceConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/try_js/hello_typescript/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/try_ruby" />
       <recent name="$PROJECT_DIR$/try_clojure" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.try_java" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/try_scala" />
-      <recent name="$PROJECT_DIR$/try_scala/src" />
+      <recent name="$PROJECT_DIR$/try_js/hello_typescript" />
+      <recent name="$PROJECT_DIR$/try_js/hello_typescript/src" />
+      <recent name="$PROJECT_DIR$/try_bash" />
+      <recent name="$PROJECT_DIR$/try_bash/tmp" />
+      <recent name="$PROJECT_DIR$/try_bash/test/libs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -127,7 +350,53 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Clojure Application.user (1)">
+  <component name="RunManager" selected="Bash.functions.sh">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.try_java.App" />
+      <module name="try_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.try_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.try_java.App" />
+      <module name="try_java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.try_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.try_java.App" />
+      <module name="try_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="functions.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <module name="try_bash" />
+      <option name="INTERPRETER_OPTIONS" value="bash" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/env" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/try_bash" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try_bash/functions.sh" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
       <setting name="replType" value="NREPL" />
       <setting name="execution" value="LEININGEN" />
@@ -146,38 +415,57 @@
       <module name="" />
       <method v="2" />
     </configuration>
-    <configuration name="user (1)" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
-      <module name="try_clojure" />
-      <setting name="path" value="$PROJECT_DIR$/try_clojure/hello.clj" />
-      <setting name="namespace" value="" />
-      <setting name="execution" value="INTELLIJ" />
-      <setting name="profiles" value="" />
-      <setting name="aliases" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="$PROJECT_DIR$/try_clojure" />
+    <configuration name="/Users/dereckrx/workspace/try_language/try_java/build.gradle (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/try_java/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="user" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
-      <module name="try_clojure" />
-      <setting name="path" value="" />
-      <setting name="namespace" value="" />
-      <setting name="execution" value="INTELLIJ" />
-      <setting name="profiles" value="" />
-      <setting name="aliases" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="$PROJECT_DIR$/try_clojure" />
-      <method v="2" />
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="try_ruby" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="bundle exec ruby" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Clojure Application.user" />
-      <item itemvalue="Clojure Application.user (1)" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.App (1)" />
+      <item itemvalue="Application.App (2)" />
+      <item itemvalue="Gradle./Users/dereckrx/workspace/try_language/try_java/build.gradle (1)" />
+      <item itemvalue="Bash.functions.sh" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Clojure Application.user (1)" />
-        <item itemvalue="Clojure Application.user" />
+        <item itemvalue="Bash.functions.sh" />
+        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Gradle./Users/dereckrx/workspace/try_language/try_java/build.gradle (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -201,12 +489,53 @@
       <updated>1550424004189</updated>
       <workItem from="1550424005666" duration="1062000" />
       <workItem from="1550425148329" duration="805000" />
-      <workItem from="1550426060809" duration="12587000" />
+      <workItem from="1550426060809" duration="12635000" />
+      <workItem from="1551833291512" duration="10627000" />
+      <workItem from="1553659069243" duration="4464000" />
+      <workItem from="1553906210064" duration="3697000" />
+      <workItem from="1553917098587" duration="418000" />
+      <workItem from="1554044914406" duration="5833000" />
+      <workItem from="1554609156357" duration="36000" />
+      <workItem from="1554816178063" duration="4882000" />
+      <workItem from="1557714116406" duration="109000" />
+      <workItem from="1558773661543" duration="38954000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="test_hello__try_ruby - 2019.03.26 at 23h 22m 00s.xml">
+      <configuration name="test_hello: try_ruby" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_test_'BottlesTest'__try_ruby - 2019.03.26 at 23h 22m 05s.xml">
+      <configuration name="Run test 'BottlesTest': try_ruby" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_test_'BottlesTest'__try_ruby - 2019.03.26 at 23h 26m 13s.xml">
+      <configuration name="Run test 'BottlesTest': try_ruby" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_baba_is_you__try_ruby - 2019.03.26 at 23h 26m 14s.xml">
+      <configuration name="test_baba_is_you: try_ruby" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_baba_is_you__try_ruby - 2019.03.26 at 23h 26m 28s.xml">
+      <configuration name="test_baba_is_you: try_ruby" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_baba_is_you__try_ruby - 2019.03.26 at 23h 28m 12s.xml">
+      <configuration name="test_baba_is_you: try_ruby" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_baba_is_you__try_ruby - 2019.03.26 at 23h 28m 22s.xml">
+      <configuration name="test_baba_is_you: try_ruby" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_test_'BottlesTest'__try_ruby - 2019.03.26 at 23h 29m 53s.xml">
+      <configuration name="Run test 'BottlesTest': try_ruby" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_test_'BottlesTest'__try_ruby - 2019.03.26 at 23h 30m 58s.xml">
+      <configuration name="Run test 'BottlesTest': try_ruby" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_test_'BottlesTest'__try_ruby - 2019.03.26 at 23h 31m 13s.xml">
+      <configuration name="Run test 'BottlesTest': try_ruby" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14454000" />
+    <option name="totallyTimeSpent" value="83522000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -218,20 +547,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="873" height="741" extended-state="0" />
+    <frame x="0" y="23" width="1366" height="745" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38387486" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992343" visible="true" weight="0.21072507" />
+      <window_info id="Structure" order="1" sideWeight="0.5007657" side_tool="true" weight="0.21072507" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.49919224" weight="0.32973805" />
+      <window_info id="Favorites" order="6" sideWeight="0.5007657" side_tool="true" weight="0.21072507" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32973805" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49819493" visible="true" weight="0.32973805" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32924962" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49819493" weight="0.32924962" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -241,6 +569,9 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50180507" side_tool="true" weight="0.32973805" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49919224" weight="0.32924962" />
+      <window_info anchor="bottom" id="Build" order="13" visible="true" weight="0.32924962" />
+      <window_info anchor="bottom" id="TypeScript" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -253,177 +584,224 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="REPL" order="10" side_tool="true" />
       <window_info anchor="right" id="Elm" order="11" />
+      <window_info anchor="right" id="Gradle" order="12" weight="0.32930514" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/try_kotlin/try_kotlin.iml">
+    <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/node_modules/typescript/lib/lib.es5.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <caret line="1385" column="5" selection-start-line="1385" selection-start-column="5" selection-end-line="1385" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try_ruby/try_ruby.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_js/try_js.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_js/package.json">
+    <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/package-lock.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/try_elm/app.html">
+    <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="323">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try_elm/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_elm/output/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_elm/try_elm.iml">
+    <entry file="file://$PROJECT_DIR$/try_bash/deps.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        <state relative-caret-position="57">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try_elm/HelloWorld.elm">
+    <entry file="file://$PROJECT_DIR$/try_bash/parse_json.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#175#208#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="487">
+          <caret line="103" column="3" selection-start-line="103" selection-start-column="3" selection-end-line="103" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try_elm/elm.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_elm/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_elm/MainForIndex.elm">
+    <entry file="file://$PROJECT_DIR$/try_bash/test.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try_elm/Main.elm">
+    <entry file="file://$PROJECT_DIR$/try_bash/try_bash.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_bash/tmp/tmp_result.txt">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="19">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_bash/tmp/return_value.txt">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_bash/test/test_helper.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_bash/tmpfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_bash/foo.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_bash/create_repo.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_bash/deps/assert.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="79" column="21" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_bash/functions.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="36" column="8" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_bash/conditional_test.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding>
-            <element signature="e#82#96#0" expanded="true" />
-          </folding>
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try_elm/Makefile">
+    <entry file="file://$PROJECT_DIR$/try_bash/functions_test.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="318">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try_ruby/.rubocop.yml">
+    <entry file="file://$PROJECT_DIR$/try_bash/variables_test.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        <state relative-caret-position="318">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try_kotlin/hello_world.kt">
+    <entry file="file://$PROJECT_DIR$/try_bash/test/bar_test.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="38">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_bash/test/foo_test.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="21" column="21" selection-start-line="21" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_bash/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_bash/run_tests.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_bash/test/module/nested_test.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_bash/file_paths.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_bash/README.txt">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="96" lean-forward="true" selection-start-line="6" selection-end-line="6" selection-end-column="96" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_bash/fun_lib/func.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-208">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_elixir/try_elixir.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_scala/spiral-matrix.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_scala/railway/scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_scala/railway/Railyard.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-106">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_scala/railway/fun_control_flow.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/try_scala/hello_world.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="102">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_elixir/try_elixir.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_js/hello_world.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_ruby/hello_world.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_elixir/hello_world.exs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_clojure/hello.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_clojure/try_clojure.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_scala/try_scala.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -434,20 +812,119 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/test/index.test.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="114">
-            <caret line="6" column="155" selection-start-line="6" selection-start-column="155" selection-end-line="6" selection-end-column="155" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/test/index.test.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/src/index.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/src/order_total.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/src/foo.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_js/hello_world.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/test/foo.test.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/hello_generics.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/jest.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/src/hello_world.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/src/hello_generics.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/ts_node/runner.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#36#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/ts_node/reptile.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_js/hello_typescript/ts_node/mammal.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -492,7 +969,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>11</last-edited>
+          <last-edited>rbenv: 2.5.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -504,7 +981,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>try_elm</last-edited>
+          <last-edited>try_java</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -528,7 +1005,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>KotlinJavaRuntime</last-edited>
+          <last-edited>lombok</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

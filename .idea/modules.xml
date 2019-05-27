@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/try_bash/try_bash.iml" filepath="$PROJECT_DIR$/try_bash/try_bash.iml" />
       <module fileurl="file://$PROJECT_DIR$/try_clojure/try_clojure.iml" filepath="$PROJECT_DIR$/try_clojure/try_clojure.iml" />
       <module fileurl="file://$PROJECT_DIR$/try_elixir/try_elixir.iml" filepath="$PROJECT_DIR$/try_elixir/try_elixir.iml" />
       <module fileurl="file://$PROJECT_DIR$/try_elm/try_elm.iml" filepath="$PROJECT_DIR$/try_elm/try_elm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try_java/try_java.iml" filepath="$PROJECT_DIR$/try_java/try_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/try_java.main.iml" filepath="$PROJECT_DIR$/.idea/modules/try_java.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/try_java.test.iml" filepath="$PROJECT_DIR$/.idea/modules/try_java.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/try_js/try_js.iml" filepath="$PROJECT_DIR$/try_js/try_js.iml" />
       <module fileurl="file://$PROJECT_DIR$/try_kotlin/try_kotlin.iml" filepath="$PROJECT_DIR$/try_kotlin/try_kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/try_ruby/try_ruby.iml" filepath="$PROJECT_DIR$/try_ruby/try_ruby.iml" />
