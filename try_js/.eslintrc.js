@@ -1,4 +1,5 @@
-{
+
+module.exports = {
   "env": {
     "browser": true,
     "es6": true,
@@ -10,15 +11,18 @@
     "SharedArrayBuffer": "readonly"
   },
   "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module",
     "ecmaFeatures": {
       "jsx": true
-    },
-    "ecmaVersion": 2018,
-    "sourceType": "module"
+    }
   },
   "plugins": [
-    "react"
+    "react",
+    "no-null"
   ],
   "rules": {
+    "no-null/no-null": 2,
+    "semi": "always" // Require semicolons
   }
-}
+};

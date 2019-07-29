@@ -1,15 +1,21 @@
 {
+  "type": "module",
   "name": "try_js",
   "version": "1.0.0",
   "description": "",
   "main": "try_ramda.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "ava": "ava"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "npm": "^6.7.0",
+    "node-fetch": "^2.6.0",
+    "npm": "^6.10.2",
     "ramda": "^0.26.1"
+  },
+  "devDependencies": {
+    "ava": "^2.2.0"
   }
 }
