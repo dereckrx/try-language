@@ -6,9 +6,10 @@
     <content url="file://$MODULE_DIR$/../../try_java/src/main">
       <sourceFolder url="file://$MODULE_DIR$/../../try_java/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../try_java/src/main/resources" type="java-resource" />
+      <excludePattern pattern="elm-stuff" />
     </content>
     <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.projectlombok:lombok:" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.projectlombok:lombok:1.18.8" level="project" />
   </component>
 </module>
