@@ -1,73 +1,75 @@
-const {describe, ex, eq}= require('./test.js');
-const {copyWith, copyWithout} = require('./copyWith.js');
+const test = require('ava');
+const {copyWith, copyWithout}= require('./copyWith.js');
 
-describe('Array', () => {
+test('Array', t => {
+  const is = t.deepEqual;
   const array = [1, 2];
   
-  eq(copyWith(array, 3),
+  is(copyWith(array, 3),
     [1, 2, 3]);
-  eq(copyWith(array, 3, 4),
+  is(copyWith(array, 3, 4),
     [1, 2, 3, 4]);
-  eq(copyWith(array, {c: 3}),
+  is(copyWith(array, {c: 3}),
     [1, 2, {c: 3}]);
-  eq(copyWith(array, [3, 4]),
+  is(copyWith(array, [3, 4]),
     [1, 2, [3, 4]]);
-  eq(copyWith(array, [3, 4], [5, 6]),
+  is(copyWith(array, [3, 4], [5, 6]),
     [1, 2, [3, 4], [5, 6]]);
   
-  eq(copyWithout(array, 1),
+  is(copyWithout(array, 1),
     [2]);
-  eq(copyWithout(array, 2),
+  is(copyWithout(array, 2),
     [1]);
-  eq(copyWithout([1, 1, 2, 1], 1),
+  is(copyWithout([1, 1, 2, 1], 1),
     [2]);
   
-  ex('does not mutate original', array, [1, 2]);
+  is(array, [1, 2], 'does not mutate original');
 });
 
-describe('Object', () => {
+test('Object', t => {
+  const is = t.deepEqual;
   const object = {a: 1};
   
-  eq(copyWith(object, {b: 2}),
+  is(copyWith(object, {b: 2}),
     {a: 1, b: 2});
-  eq(copyWith(object, {b: 2, c: 3}),
+  is(copyWith(object, {b: 2, c: 3}),
     {a: 1, b: 2, c: 3});
-  eq(copyWith(object, {b: 2}, {c: 3}),
+  is(copyWith(object, {b: 2}, {c: 3}),
     {a: 1, b: 2, c: 3});
-  eq(copyWith(object, {a: 'a'}),
+  is(copyWith(object, {a: 'a'}),
     {a: 'a'});
   
-  eq(copyWithout(object, 'a'),
+  is(copyWithout(object, 'a'),
     {});
-  eq(copyWithout({a: 1, b: 2}, 'b'),
+  is(copyWithout({a: 1, b: 2}, 'b'),
     {a: 1});
-  eq(copyWithout({a: 1, b: 2, c: 3}, 'a', 'b'),
+  is(copyWithout({a: 1, b: 2, c: 3}, 'a', 'b'),
     {c: 3});
   
-  ex('does not mutate original', object, {a: 1});
+  is(object, {a: 1}, 'does not mutate original');
 });
 
-describe('Strings', () => {
+test('Strings', t => {
+  const is = t.is;
   const string = 'abc';
   
-  eq(copyWith(string, 'def'),
+  is(copyWith(string, 'def'),
     'abcdef');
-  eq(copyWith(string, 'def', 'ghi'),
+  is(copyWith(string, 'def', 'ghi'),
     'abcdefghi');
-  eq(copyWith(string, 1),
+  is(copyWith(string, 1),
     'abc1');
-
   
-  eq(copyWithout(string, 'a'),
+  is(copyWithout(string, 'a'),
     'bc');
-  eq(copyWithout(string, 'ab'),
+  is(copyWithout(string, 'ab'),
     'c');
-  eq(copyWithout(string, 'a', 'b'),
+  is(copyWithout(string, 'a', 'b'),
     'c');
-  eq(copyWithout('aaba', 'a'),
+  is(copyWithout('aaba', 'a'),
     'aba');
-  eq(copyWithout('aaba', /a/g),
+  is(copyWithout('aaba', /a/g),
     'b');
   
-  ex('does not mutate original', string, 'abc');
+  is(string, 'abc', 'does not mutate original');
 });
