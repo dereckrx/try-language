@@ -1,4 +1,9 @@
 
+Bash: 2019-05 File loading, testing, learning (left off)
+https://ryanstutorials.net/bash-scripting-tutorial/bash-loops.php#activities
+https://www.tldp.org/LDP/abs/html/testconstructs.html
+
+---
 Best Practices
 https://sap1ens.com/blog/2017/07/01/bash-scripting-best-practices/
 https://stackoverflow.com/questions/78497/design-patterns-or-best-practices-for-shell-scripts
