@@ -2,7 +2,7 @@
 ## Wed Jan 24 2018 3:49 PM
 https://www.dailydrip.com/drips/search?availability=free&order=newest&page=2&q=&topic_id=2&user_id=6304&utf8=%E2%9C%93&watched=all
 -}
-module Main exposing (..)
+module Todo exposing (..)
 
 import Html exposing (program, Html, div, h3, button, text, input)
 import Html.Events exposing (onClick, onInput)

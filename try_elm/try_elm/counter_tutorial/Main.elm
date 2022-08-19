@@ -75,11 +75,11 @@ update msg model =
 -- VIEW ----------------------------------------------
 view : Model -> Html Msg
 view model =
-   Grid.container []          -- Responsive fixed width container
-        [ CDN.stylesheet      -- Inlined Bootstrap CSS for use with reactor
-        , navbar model        -- Interactive and responsive menu
-        , mainContent model
-        ]
+       --Grid.container []          -- Responsive fixed width container
+       --     [ CDN.stylesheet      -- Inlined Bootstrap CSS for use with reactor
+       --     , navbar model        -- Interactive and responsive menu
+       --     , mainContent model
+       --     ]
     div []
         [ button [ onClick Decrement ] [ text "-" ]
         , div [] [ text (toString model.value)]

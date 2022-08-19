@@ -1,3 +1,5 @@
+PATH  := node_modules/.bin:$(PATH)
+
 setup:
 	npm init -y
 	npm install typescript --save-dev
@@ -8,7 +10,7 @@ test: compile
 	npx jest
 
 clean:
-	rm -r build
+	rm -rf build
 
 compile:
 	tsc
@@ -17,4 +19,3 @@ help:
 	@echo "## Install Dependencies"
 	@echo "npm install <name>"
 	@echo "npm install --save-dev <name>"
-

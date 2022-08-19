@@ -1,3 +1,4 @@
+PATH  := node_modules/.bin:$(PATH)
 
 test:
 	node --experimental-modules **/patterns/*.js

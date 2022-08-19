@@ -1,4 +1,3 @@
--- elm make hello_world.elm --output output/main.js  && node main.js
 -- IntelliJ Setup:
 -- * Depends on an elm.json to pull in dependencies
 -- * elm embedding in html is not working

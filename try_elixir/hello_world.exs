@@ -1,6 +1,7 @@
 # elixir hello_world.exs
 # IntellJ setup:
 # * Requires SDK "Elixir 1.6.6"
+
 log = &IO.puts/1
 log.("Hello world from Elixir")
 
